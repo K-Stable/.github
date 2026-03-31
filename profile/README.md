@@ -17,7 +17,7 @@
 - [`wallet`](https://github.com/K-Stable/wallet)  
   Wallet App(iOS/Flutter) + Wallet Web + Wallet BE(NestJS), OpenAPI/SDK
 
-- [`infra`](https://github.com/K-Stable/infra) / [`core`](https://github.com/K-Stable/core)  
+- [`infra`](https://github.com/K-Stable/k-stable-pay-infra) / [`core`](https://github.com/K-Stable/core)  
   배포 인프라 + 결제 레일(core contracts / network components)
 
 ### Architecture
