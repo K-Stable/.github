@@ -14,7 +14,7 @@
 - [`wearhouse-be`](https://github.com/K-Stable/wearhouse-be)  
   쇼핑몰 백엔드 
 
-- [`wallet`](https://github.com/K-Stable/wallet)  
+- [`wallet`](https://github.com/K-Stable/k-stable-pay-wallet)  
   Wallet App(iOS/Flutter) + Wallet Web + Wallet BE(NestJS), OpenAPI/SDK
 
 - [`infra`](https://github.com/K-Stable/k-stable-pay-infra) / [`core`](https://github.com/K-Stable/core)  
